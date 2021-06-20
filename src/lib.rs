@@ -3,7 +3,7 @@
 //! Zende is a minimal library for the ***z***igzag ***en***coding and
 //! ***de***coding of integers.
 
-#![doc(html_root_url = "https://docs.rs/zende/0.1.1")]
+#![doc(html_root_url = "https://docs.rs/zende/0.1.0")]
 
 use std::mem;
 
