@@ -8,7 +8,7 @@ repository = "https://github.com/seancroach/zende"
 keywords = ["zigzag"]
 categories = ["encoding"]
 readme = "README.md"
-include = ["README.md", "LICENSE.md"]
+include = ["src/**/*.rs", "README.md", "LICENSE.md"]
 edition = "2018"
 
 [dev-dependencies]
