@@ -11,4 +11,4 @@ documentation of `docs.rs` [here](https://docs.rs/zende).
 ## License
 
 This crate is available as open source under the terms of the
-[MIT License](https://github.com/senacroach/zende/blob/latest/LICENSE.md).
+[MIT License](https://github.com/seancroach/zende/blob/latest/LICENSE.md).
