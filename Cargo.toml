@@ -1,6 +1,6 @@
 [package]
 name = "zende"
-version = "0.1.4" # remember to update html_root_url
+version = "0.1.5" # remember to update html_root_url
 authors = ["Sean C. Roach <me@seancroach.dev>"]
 license = "MIT"
 description = "A zigzag encoding/decoding library"
