@@ -61,7 +61,7 @@ jobs:
 
   publish:
     runs-on: ubuntu-latest
-    if: startsWith(github.ref, 'refs/tags/')
+    if: startsWith(github.ref, 'refs/tags/v')
     needs: [check, test, fmt, clippy]
     steps:
       - uses: actions/checkout@v2
