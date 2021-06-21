@@ -6,7 +6,7 @@
 [crates.io]: https://crates.io/crates/zende
 
 A minimal library for the ***z***igzag ***en***coding and ***de***coding of integers. View the
-documentation of `docs.rs` [here](https://docs.rs/residua-zigzag).
+documentation of `docs.rs` [here](https://docs.rs/zende).
 
 ## License
 
