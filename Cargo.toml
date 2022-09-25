@@ -1,12 +1,12 @@
 [package]
 name = "zende"
-version = "0.1.7" # remember to update html_root_url
+version = "0.1.8" # remember to update html_root_url
 authors = ["Sean C. Roach <me@seancroach.dev>"]
 license = "MIT"
 description = "A zigzag encoding/decoding library"
 repository = "https://github.com/seancroach/zende"
-keywords = ["zigzag"]
-categories = ["encoding"]
+keywords = ["zigzag", "no_std"]
+categories = ["encoding", "no-std"]
 readme = "README.md"
 include = ["src/**/*.rs", "README.md", "LICENSE.md"]
 edition = "2018"
